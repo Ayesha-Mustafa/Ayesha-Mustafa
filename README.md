@@ -24,7 +24,19 @@
 <div align="center" style="width:100%">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="600px"/>
 </div>
----
+
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Mustafa&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=Ayesha-Mustafa&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Mustafa&layout=compact&theme=tokyonight"/>
+</p>
+
 
 # 📚 Table of Contents
 
@@ -227,23 +239,7 @@ Experience integrating:
 - SaaS platform integrations
 - Webhooks
 - JWT authentication systems
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Mustafa&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Mustafa&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Ayesha-Mustafa&theme=tokyonight"/>
-</p>
-
+  
 ---
 
 # 📫 Contact
