@@ -30,11 +30,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Mustafa&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com/?user=Ayesha-Mustafa&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Mustafa&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Mustafa&layout=compact&theme=tokyonight"/>
 </p>
 
 
@@ -65,8 +61,7 @@ Government College University Faisalabad
 
 # 🏢 Companies / Organizations
 
-### SocialBu — Software Engineer
-(Current)
+### SocialBu — Software Engineer (Current)
 
 Working on:
 
@@ -78,7 +73,7 @@ Working on:
 ---
 
 ### Tossdown — Software Engineer  
-📅 Dec 2021 — Present (Previous)
+📅 Dec 2021 — July 2025
 
 Key contributions:
 
