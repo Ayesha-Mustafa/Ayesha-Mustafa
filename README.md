@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 I'm Ayesha Mustafa</h1>
-
+<div id="user-content-header" align="center" dir="auto">
+<animated-image data-catalyst="" style="width: 100px; align:center;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cda6ccecfd53e60e9ed2bf1a2bda04dd057f3e145997236acc2118828e6a3e83/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f676a72594477626a6e4b38783336785a494f2f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/cda6ccecfd53e60e9ed2bf1a2bda04dd057f3e145997236acc2118828e6a3e83/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f676a72594477626a6e4b38783336785a494f2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+</animated-image></div>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;Node.js+%7C+PHP+Developer;AWS+Cloud+Enthusiast;Building+Scalable+APIs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;Node.js+%7C+PHP+Developer;AWS+Cloud+Engineer;Building+Scalable+Web+Applications" />
 </p>
 
 <p align="center">
@@ -19,52 +21,224 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ayesha-Mustafa&color=blue&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Ayesha-Mustafa&label=Profile+Views&color=blue&style=flat"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 📚 Table of Contents
 
-💻 Software Engineer with **4+ years experience**
+- 🎓 Education  
+- 🏢 Companies / Organizations  
+- 🧑‍💼 Designations / Roles  
+- 📜 Certificates & Courses  
+- 🛠 Tools, Technologies & Techniques  
+- ☁️ Cloud & Infrastructure  
+- 📁 Projects  
+- 📦 Packages / Integrations  
+- 📊 GitHub Statistics  
+- 📫 Contact  
 
-⚙️ Backend developer specializing in:
+---
 
+# 🎓 Education
+
+**BS Computer Science**  
+Government College University Faisalabad  
+
+🎓 CGPA: **3.90 / 4.00**  
+📅 2017 — 2021
+
+---
+
+# 🏢 Companies / Organizations
+
+### SocialBu — Software Engineer
+(Current)
+
+Working on:
+
+- Laravel backend development  
+- Vue.js frontend features  
+- Social media automation platform  
+- API optimization and analytics features  
+
+---
+
+### Tossdown — Software Engineer  
+📅 Dec 2021 — Present (Previous)
+
+Key contributions:
+
+- Led PHP backend developers for scalable web apps  
+- Designed **serverless microservices using Node.js + AWS Lambda**  
+- Built REST APIs and webhook integrations  
+- Optimized AWS infrastructure (EC2, S3, DynamoDB, CloudFront, VPC)  
+- Migrated website assets to **AWS S3 + CloudFront**  
+- Implemented **JWT authentication**  
+- Built SaaS platform APIs and integrations  
+- Led architecture for **BNU & LACAS admin portals**  
+
+---
+
+### VoIPMen — PHP Laravel Developer  
+📅 Jan 2021 — Dec 2021
+
+Responsibilities:
+
+- Developed VoIP admin portals  
+- Built billing, call routing, and user management modules  
+- Integrated APIs with third-party VoIP services  
+
+---
+
+### Freelance — Web Developer  
+📅 Apr 2019 — Jan 2021
+
+- Built multiple **e-commerce websites**
+- Developed scalable applications using **Laravel**
+- Integrated third-party APIs for payment & services
+
+---
+
+# 🧑‍💼 Designations / Roles
+
+- Software Engineer
+- Full Stack Developer
+- Backend Engineer
+- API Developer
+- Cloud Developer
+
+---
+
+# 📜 Certificates & Courses
+
+- The Complete **Node.js Developer Course (3rd Edition)**
+- **Complete PHP MySQL Course**
+- **Product Management 101**
+
+---
+
+# 🛠 Tools, Technologies & Techniques
+
+### Languages
+
+- PHP
+- JavaScript
+- SQL
+- HTML5
+- CSS
+
+### Frameworks
+
+- Laravel
+- CodeIgniter
+- Phalcon
 - Node.js
-- PHP (Laravel, Phalcon, CodeIgniter)
-- REST APIs & JWT authentication
+- Vue.js
 
-☁️ Experienced with **AWS Cloud**
+### Databases
 
+- MySQL
+- DynamoDB
+
+### Tools
+
+- Git
+- Bitbucket
+- Jira
+- ClickUp
+- Postman
+
+---
+
+# ☁️ Cloud & Infrastructure
+
+AWS Services Experience:
+
+- AWS Lambda
 - EC2
 - S3
 - DynamoDB
-- Load Balancers
 - CloudWatch
+- SNS
+- Load Balancers
+- VPC
 
-🚀 Worked on **scalable SaaS platforms**
+Also experienced with:
 
-🌱 Currently learning **Vue.js 3**
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,js,ts,mysql,aws,vue,react,docker,git,linux" />
-</p>
+- DigitalOcean server deployment
+- Nginx / Apache configuration
+- SSL setup
+- Cloudflare CDN
 
 ---
 
-## 📊 GitHub Stats
+# 📁 Projects
+
+## 🎓 BNU Admin Portal
+
+Developed university management system.
+
+Features:
+
+- Faculty & department management
+- Program hierarchy
+- Authentication & user management
+- News & events modules
+- Backend architecture & database schema
+
+---
+
+## 🎓 LACAS Admin Portal
+
+Built a scalable academic portal from scratch.
+
+Features:
+
+- Role-based user access
+- Faculty / department management
+- Event management
+- REST APIs for frontend integration
+
+---
+
+## ⚡ Website Speed Optimization
+
+Led a major performance optimization project.
+
+Improvements:
+
+- Migrated assets to **AWS S3**
+- Implemented **CloudFront CDN**
+- Applied **lazy loading**
+- Converted images to **WebP**
+- Deferred JS execution
+- Improved **Core Web Vitals & SEO ranking**
+
+---
+
+# 📦 Packages / Integrations
+
+Experience integrating:
+
+- Payment Gateways
+- Third-party APIs
+- SaaS platform integrations
+- Webhooks
+- JWT authentication systems
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ayesha-Mustafa&show_icons=true&theme=tokyonight"/>
 </p>
 
----
-
-## 🔥 GitHub Streak
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Mustafa&layout=compact&theme=tokyonight"/>
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Ayesha-Mustafa&theme=tokyonight"/>
@@ -72,18 +246,10 @@
 
 ---
 
-## 💻 Top Languages
+# 📫 Contact
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Mustafa&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 📫 Connect With Me
+📧 Email  
+ayeshamustafa842@gmail.com  
 
 💼 LinkedIn  
 https://www.linkedin.com/in/ayesha-mustafa-3b6501220
-
-📧 Email  
-ayeshamustafa842@gmail.com
