@@ -120,9 +120,9 @@ Responsibilities:
 
 # 📜 Certificates & Courses
 
-- The Complete **Node.js Developer Course (3rd Edition)**
-- **Complete PHP MySQL Course**
-- **Product Management 101**
+- The Complete **Node.js Developer Course (3rd Edition)** | Udemy
+- **Complete PHP MySQL Course** | Udemy
+- **Product Management 101** | Udemy
 
 ---
 
