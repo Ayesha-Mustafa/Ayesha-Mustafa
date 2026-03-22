@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋 I'm Ayesha Mustafa</h1>
-<div id="user-content-header" align="center" dir="auto">
-<animated-image data-catalyst="" style="width: 100px; align:center;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cda6ccecfd53e60e9ed2bf1a2bda04dd057f3e145997236acc2118828e6a3e83/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f676a72594477626a6e4b38783336785a494f2f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/cda6ccecfd53e60e9ed2bf1a2bda04dd057f3e145997236acc2118828e6a3e83/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f676a72594477626a6e4b38783336785a494f2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-</animated-image></div>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;Node.js+%7C+PHP+Developer;AWS+Cloud+Engineer;Building+Scalable+Web+Applications" />
 </p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ayesha-mustafa-3b6501220">
@@ -23,7 +21,9 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ayesha-Mustafa&label=Profile+Views&color=blue&style=flat"/>
 </p>
-
+<div align="center" style="width:100%">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="600px"/>
+</div>
 ---
 
 # 📚 Table of Contents
