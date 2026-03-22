@@ -33,6 +33,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Mustafa&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,js,ts,mysql,aws,vue,react,docker,git,linux" />
+</p>
+
 
 # 📚 Table of Contents
 
