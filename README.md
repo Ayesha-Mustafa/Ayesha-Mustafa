@@ -187,7 +187,54 @@ Also experienced with:
 
 # 📁 Projects
 
+## 🚀 One-Button Website Builder (Tossdown)
+<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/91e804c2-7b71-4698-bb12-3b88ae3aa9d5" />
+
+Developed a SaaS tool that allows users to **create fully functional websites with a single click**.
+
+Key Features:
+
+- One-click website generation
+- Automated domain and configuration setup
+- Dynamic website provisioning
+- Scalable backend architecture
+
+Technologies Used:
+
+- PHP / Laravel
+- Node.js APIs
+- AWS Infrastructure
+- MySQL
+
+Platform URL:
+https://ob.tossdown.site
+
+
+---
+
+## 🧩 Website Customization Platform (Tossdown)
+
+Worked on a **website customization tool similar to WordPress page builders** that allows businesses to design and manage websites without coding.
+
+Responsibilities:
+
+- Backend API development
+- Website template management
+- Dynamic content rendering
+- Integration with SaaS website builder system
+
+Technologies:
+
+- PHP Laravel
+- JavaScript
+- MySQL
+- REST APIs
+
+---
+
 ## 🎓 BNU Admin Portal
+
+<img width="1892" height="879" alt="image" src="https://github.com/user-attachments/assets/78e07c0a-0807-4ec7-a9f8-0f7475ff6165" />
 
 Developed university management system.
 
@@ -199,9 +246,13 @@ Features:
 - News & events modules
 - Backend architecture & database schema
 
+Platform URL: https://admin.bnu.edu.pk/
+
 ---
 
 ## 🎓 LACAS Admin Portal
+
+<img width="1894" height="814" alt="image" src="https://github.com/user-attachments/assets/a560ec85-1cbd-4ee5-8976-8af0bee35cab" />
 
 Built a scalable academic portal from scratch.
 
@@ -211,6 +262,34 @@ Features:
 - Faculty / department management
 - Event management
 - REST APIs for frontend integration
+
+Platform URL: https://admin.lacas.edu.pk/
+
+---
+
+## ☎️ Dialer30 – Call Center Software (VoIPMen)
+
+Contributed to development of **Dialer30**, a VoIP-based call center software used for managing outbound and inbound calls.
+
+Responsibilities:
+
+- Developed admin management portal
+- Implemented call routing logic
+- Built billing and monitoring modules
+- Integrated APIs with VoIP services
+
+Features:
+
+- Agent management
+- Call routing
+- Call reporting
+- Billing systems
+
+Technologies:
+
+- PHP Laravel
+- MySQL
+- VoIP APIs
 
 ---
 
