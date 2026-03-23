@@ -40,8 +40,8 @@
 
 # 📚 Table of Contents
 
-- 🎓 Education  
-- 🏢 Companies / Organizations  
+- [🎓 Education](#-education)  
+- [🏢 Companies / Organizations](#-companies)
 - 🧑‍💼 Designations / Roles  
 - 📜 Certificates & Courses  
 - 🛠 Tools, Technologies & Techniques  
@@ -53,7 +53,7 @@
 
 ---
 
-# 🎓 Education
+# [🎓 Education](#-education)
 
 **BS Computer Science**  
 Government College University Faisalabad  
@@ -63,7 +63,7 @@ Government College University Faisalabad
 
 ---
 
-# 🏢 Companies / Organizations
+# [🏢 Companies / Organizations](#-companies)
 
 ### SocialBu — Software Engineer (Current)
 
