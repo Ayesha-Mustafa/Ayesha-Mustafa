@@ -232,7 +232,7 @@ Technologies:
 
 ---
 
-## 🎓 BNU Admin Portal
+## 🎓 BNU Admin Portal (Tossdown)
 
 <img width="1892" height="879" alt="image" src="https://github.com/user-attachments/assets/78e07c0a-0807-4ec7-a9f8-0f7475ff6165" />
 
@@ -250,7 +250,7 @@ Platform URL: https://admin.bnu.edu.pk/
 
 ---
 
-## 🎓 LACAS Admin Portal
+## 🎓 LACAS Admin Portal (Tossdown)
 
 <img width="1894" height="814" alt="image" src="https://github.com/user-attachments/assets/a560ec85-1cbd-4ee5-8976-8af0bee35cab" />
 
