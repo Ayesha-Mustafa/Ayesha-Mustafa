@@ -37,19 +37,17 @@
 <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,js,ts,mysql,aws,vue,react,docker,git,linux" />
 </p>
 
-
 # 📚 Table of Contents
 
-- [🎓 Education](#-education)  
-- [🏢 Companies / Organizations](#-companies)
-- 🧑‍💼 Designations / Roles  
-- 📜 Certificates & Courses  
-- 🛠 Tools, Technologies & Techniques  
-- ☁️ Cloud & Infrastructure  
-- 📁 Projects  
-- 📦 Packages / Integrations  
-- 📊 GitHub Statistics  
-- 📫 Contact  
+- [🎓 Education](#-education)
+- [🏢 Companies / Organizations](#-companies--organizations)
+- [🧑‍💼 Designations / Roles](#-designations--roles)
+- [📜 Certificates & Courses](#-certificates--courses)
+- [🛠 Tools, Technologies & Techniques](#-tools-technologies--techniques)
+- [☁️ Cloud & Infrastructure](#-cloud--infrastructure)
+- [📁 Projects](#-projects)
+- [📦 Packages / Integrations](#-packages--integrations)
+- [📫 Contact](#-contact)
 
 ---
 
@@ -63,7 +61,7 @@ Government College University Faisalabad
 
 ---
 
-# [🏢 Companies / Organizations](#-companies)
+# [🏢 Companies / Organizations](#-companies--organizations)
 
 ### SocialBu — Software Engineer (Current)
 
@@ -112,7 +110,7 @@ Responsibilities:
 
 ---
 
-# 🧑‍💼 Designations / Roles
+# [🧑‍💼 Designations / Roles](#-designations--roles)
 
 - Software Engineer
 - Full Stack Developer
@@ -122,7 +120,7 @@ Responsibilities:
 
 ---
 
-# 📜 Certificates & Courses
+# [📜 Certificates & Courses](#-certificates--courses)
 
 - The Complete **Node.js Developer Course (3rd Edition)** | Udemy
 - **Complete PHP MySQL Course** | Udemy
@@ -130,7 +128,7 @@ Responsibilities:
 
 ---
 
-# 🛠 Tools, Technologies & Techniques
+# [🛠 Tools, Technologies & Techniques](#-tools-technologies--techniques)
 
 ### Languages
 
@@ -163,7 +161,7 @@ Responsibilities:
 
 ---
 
-# ☁️ Cloud & Infrastructure
+# [☁️ Cloud & Infrastructure](#-cloud--infrastructure)
 
 AWS Services Experience:
 
@@ -185,7 +183,7 @@ Also experienced with:
 
 ---
 
-# 📁 Projects
+# [📁 Projects](#-projects)
 
 ## 🚀 One-Button Website Builder (Tossdown)
 <img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/91e804c2-7b71-4698-bb12-3b88ae3aa9d5" />
@@ -308,7 +306,7 @@ Improvements:
 
 ---
 
-# 📦 Packages / Integrations
+# [📦 Packages / Integrations](#-packages--integrations)
 
 Experience integrating:
 
@@ -320,7 +318,7 @@ Experience integrating:
   
 ---
 
-# 📫 Contact
+#  [📫 Contact](#-contact)
 
 📧 Email  
 ayeshamustafa842@gmail.com  
