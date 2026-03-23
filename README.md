@@ -33,8 +33,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha-Mustafa&layout=compact&theme=tokyonight"/>
 </p>
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,python,php,laravel,js,ts,html,css,bootstrap,mysql,aws,vue,react,docker"/>
+</div>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs,python,php,laravel,js,ts,html,css,bootstrap,mysql,aws,vue,react,docker,git,linux,vscode,mongodb,postgresql" /></p>
+<img src="https://skillicons.dev/icons?i=git,linux,vscode,mongodb,postgresql"/>
+</p>
 
 # 📚 Table of Contents
 
