@@ -34,8 +34,7 @@
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,js,ts,mysql,aws,vue,react,docker,git,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,python,php,laravel,js,ts,html,css,bootstrap,mysql,aws,vue,react,docker,git,linux,vscode,mongodb,postgresql" /></p>
 
 # 📚 Table of Contents
 
